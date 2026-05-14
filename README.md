@@ -11,7 +11,7 @@ The prototype explores how vibrotactile feedback can be used to guide box breath
 
 This repository contains the Arduino code used in a bachelor thesis project by:
 
-Anna Sköld, Refia Sargin, Elin Ståler and ChatGPT
+Anna Sköld, Refia Sargin, Elin Ståler and assistance from ChatGPT
 
 KTH Royal Institute of Technology, Sweden, 2026.
 
